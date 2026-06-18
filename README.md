@@ -20,16 +20,14 @@ The expected probabilities are:
 * Real-time simulation of up to 100,000 trials
 * Interactive controls for simulation speed
 * Dynamic visualization of cumulative win rates
-* 95% Wilson confidence intervals
+* 95% confidence intervals
 * Responsive web interface
-* Custom HTML, CSS, and JavaScript implementation
+* Custom HTML
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
-* HTML Canvas
+* VScode
+* HTML
 
 ## Results
 
