@@ -1,6 +1,6 @@
 # Monty Hall Monte Carlo Simulation
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://jayweil32.github.io/monte-carlo-simulation-webpage/))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://jayweil32.github.io/monte-carlo-simulation-webpage/)
 
 ## Overview
 
